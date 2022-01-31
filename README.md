@@ -1,6 +1,6 @@
 ### - 👋 Hi, I’m Myleen :heart_eyes:
 - 👀 I’m interested in Application development and design
-- 🌱 I’m currently learning Android application development in java and kotlin
+- 🌱 I’m currently learning Android application development in kotlin
 - 💞️ fun fact - Im a great cook, i love to draw and im a gamer girl!
 - :speech_balloon: ask me about... Anything 
 - 📫 How to reach me email - myleenwill123@gmail.com
